@@ -2,6 +2,8 @@
 
 Kristoffer Law · 2026 · Open setting reference
 
+> **Spoiler warning:** this document states the setting's ground truth, including things no one in the world ever learns: what the field is, why it behaves as it does, and the constraints on its origin (section 8). If you want to meet the Rustfall the way the characters do, read the stories first.
+
 **Genre and focus:** science fiction. The stories follow initial survival, then rebuilding under widespread scarcity: of metal, fixed nitrogen, energy, medicine and knowledge, with every society shaped by what the field takes and where it is weakest. The field's end, ~20,000 years out, is a distant horizon with its own themes of long-term evolution and adaptation, not the focus.
 
 **About this document:** this is the open reference for the setting: the field, its geometry and time course, materials, technology, biology, the evidence trail and the constraints on its origin. It sets the physical rules. The societies, politics and cultures that grow under them are left to each writer; the author's own stories are one reading among many.
@@ -17,6 +19,13 @@ A new quantum field bolted onto the vacuum in Earth's gravity well lowers the tu
 - Metallic bonding (the conduction-electron sea), not metal ions. Ores, oxides, salts and biology are exempt at first.
 - Cabrera–Mott thin-film oxidation: passive films (Al, Cr, Ti, stainless) normally stop growing at a few nm because electrons must tunnel through them. The field removes that limit, so passive films thicken fast, then self-limit again at tens to hundreds of nm, where growth depends on heavy-ion diffusion (ions are too massive to tunnel). Iron's porous, spalling rust never self-limits, and wet corrosion is driven by O₂ reduction, which the field accelerates.
 - Later, biological metal centers as the field strengthens (see Biology).
+
+**Two couplings: why metal goes first.** Ground-state O₂ is a triplet (two unpaired electrons with parallel spins), while nearly every organic molecule is a singlet. A direct triplet–singlet reaction needs a spin flip, which quantum mechanics makes slow; this spin restriction is the real reason wood, food and flesh do not burn in air at room temperature. A metal has no such restriction: its conduction-electron sea offers both spin directions, so electrons tunnel to adsorbed O₂ without a flip, and the only brake is the tunneling barrier. The field acts in two ways:
+
+- **Barrier lowering (local).** Lowers tunneling barriers wherever electron transfer to O₂ is already spin-allowed. It needs only the field's local strength, so it works from the first instant, and metals feel it at once.
+- **Spin relaxing (ordered).** Loosens the spin restriction so that triplet O₂ can react with spin-paired chemistry: protein-bound iron, organic molecules, the chemistry of life. It needs the field to be ordered, coherent over large regions and aligned with the dipole, and that order builds slowly over the field's rise.
+
+Biology therefore lags metal by construction. The onset spike was a nucleation transient: the field's local strength rang far above its settled value before damping, as a quenched magnet's local magnetization appears at once while its domains take far longer to coarsen. The barrier-lowering coupling spiked; the spin-relaxing coupling was still near zero. The pace of the rise is set by the growth of order; the plateau's ceiling is set by the dynamo's power budget.
 
 **Thermodynamic rules (non-negotiable):**
 
@@ -101,7 +110,7 @@ The field lives about 20,000 years from birth to collapse. The base rate rises o
 
 At the plateau, equatorial heavy steel rated 30 yr at onset lasts ~3 yr; at the poles, ~4 months. P is adjustable independently of the biological plateau below.
 
-**The onset spike:** the field arrived with a spike to roughly 50× the onset baseline that lasted about an hour, then dropped steeply back to the baseline within a day before the long rise began. The spike was too short to destroy electronics at low latitudes (about two days of a three-week life), but long enough to break passive films and start fires that burned on without it. During the spike even passivating metals failed: thin aluminum and magnesium airframes, engines and fuel systems burned from oxidation within hours. The stories of flying machines bursting into flame in the sky are the most famous of the Rustfall legends, passed down as oral tradition along with other tales of the first days. At high latitudes the spike was decisive: it spent nearly all of a polar device's life in a single hour, about three-quarters of a device's life at 70°, and about 40% at 52°. Electronics near the poles died while the spike was still running, and northern arsenals lost most of their remaining life before anyone knew what was happening. The spike also explains why the first days looked so much worse than the early decades that followed.
+**The onset spike:** the field arrived with a spike to roughly 50× the onset baseline that lasted about an hour, then dropped steeply back to the baseline within a day before the long rise began. The spike was too short to destroy electronics at low latitudes (about two days of a three-week life), but long enough to break passive films and start fires that burned on without it. During the spike even passivating metals failed: thin aluminum and magnesium airframes, engines and fuel systems burned from oxidation within hours. The stories of flying machines bursting into flame in the sky are the most famous of the Rustfall legends, passed down as oral tradition along with other tales of the first days. At high latitudes the spike was decisive: it spent nearly all of a polar device's life in a single hour, about three-quarters of a device's life at 70°, and about 40% at 52°. Electronics near the poles died while the spike was still running, and northern arsenals lost most of their remaining life before anyone knew what was happening. The spike was confined to the field's barrier-lowering coupling; the spin-relaxing coupling that reaches biology had not yet ordered, so the spike left no direct mark on living things (see Two couplings). Its toll on people came through machines: failed medical devices, fires and crashes. The spike also explains why the first days looked so much worse than the early decades that followed.
 
 **Biological plateau (the habitability line):** biological load is set so the equator sits at ~30% of human repair capacity (unfelt) and the poles at ~3× capacity (extremely difficult without adaptation).
 
@@ -148,7 +157,7 @@ Repair systems saturate, so smooth field growth produces sudden failures on pred
 **The end: dynamo drain and reversal.**
 
 - The field draws power from the geodynamo (a few TW, wide uncertainty) and is anchored to the global dipole moment.
-- The dynamo's power budget caps growth, which produces the saturation. The plateau is resolved in the physics but ambiguous in-world for centuries.
+- The dynamo's power budget caps growth, which produces the saturation; the pace of the rise below that cap is set by the field's growing order (see Two couplings). The plateau is resolved in the physics but ambiguous in-world for centuries.
 - The drain weakens the dipole over ~20,000 years, on the order of the core's own magnetic diffusion timescales but faster than an undisturbed dipole would change.
 - When the dipole drops below a threshold during the reversal, the field collapses within days. The reversal itself takes centuries.
 - After collapse, rates return to normal. Lost metal stays lost; biological effects fade, and the field adaptations of 20,000 years become liabilities.
@@ -271,7 +280,7 @@ India's edge over the rest is the combination: no other low-latitude region hold
 
 ## 5. Biology
 
-Biology is spared at first, then hit where it already uses metal-mediated electron tunneling to handle O₂. Microbes adapt within decades; people adapt mostly through culture and selection.
+Biology is spared at first, then hit where it already uses metal-mediated electron tunneling to handle O₂, as the field's spin-relaxing coupling orders (see Two couplings). The onset spike did not touch it. Microbes adapt within decades; people adapt mostly through culture and selection.
 
 **Effects on humans:**
 
@@ -313,7 +322,7 @@ Biology is spared at first, then hit where it already uses metal-mediated electr
 
 **Immune strains ("supersymmetric" in-world, a misnomer):**
 
-- Mechanism: chiral-induced spin selectivity (CISS). Longer, consistently handed helical electron-transfer paths deliver spin-polarized electrons that the field cannot hand to O₂. Handedness becomes culturally significant.
+- Mechanism: chiral-induced spin selectivity (CISS). Longer, consistently handed helical electron-transfer paths deliver spin-polarized electrons that the field cannot hand to O₂. In effect they restore a fixed spin state, defeating the field's spin-relaxing coupling (see Two couplings). Handedness becomes culturally significant.
 - Arise in the northern farm belt, roughly 35–46° (northern China, the Mediterranean and southern Europe, the central US): far enough north for the field to select hard for immunity, far enough south to stay habitable at the plateau. Above ~46° the land is too marginal to farm at scale. The belt feeds itself and sells grain south in famine years; low latitudes do not need the strains, because their nitrogenase is safe there. **The northern belt keeps the food; the equator keeps the metal.**
 - Limiters in use: (1) yield penalty: longer paths slow electron transfer roughly 3–4× per added ångström, and the cost worsens as the field grows; (2) founder-bottleneck disease: a linked susceptibility like the 1970 Southern corn leaf blight; (3) geographic lock: immunity lives in the rhizobia and reverts within generations where the field is weaker, so it cannot be exported south.
 - Held in reserve: molybdenum hunger, met by Mo-steel rust from ruins. A later-era crisis when the ruins run out.
@@ -368,6 +377,7 @@ Every major hypothesis survives or fails on evidence that can be gathered withou
 | Dipole decline too fast for geology | Pottery vs deep-time records | Glass archives or old texts | The field is draining the dynamo |
 | Glass archive bootstrap primers | Northern data-centre ruins | Polarizing microscope | Pre-Rustfall history; the missing final weeks |
 | Satellite telemetry | Orbit | Gold-contact tube receiver | Synchronous global onset, independent of the equator |
+| First-day oxide layers vs same-day organics | Any surviving first-day metal beside wood, cloth or seed of the same date | Microscope, sectioning, careful chemistry | A sharp spike in metal and none in organics: the field acts in two separate ways |
 
 **The hypotheses in play** : **H1**, a superweapon deployed by one side; **H2**, the field came first and the war was a reaction to it (true); **H3**, fail-deadly systems launched on their own as their sensors died (also true: it is how the war began). The **equatorial myth** is the doctrine, held by equatorial states, that the equator commands the rust; it rests on being suspected of H1.
 
@@ -398,7 +408,7 @@ The rules below keep the setting internally consistent; the open decisions are t
 5. Any air-exposed electrical contact needs gold or platinum-group metal.
 6. Nothing restores lost metal. Rust stays rust after the field ends.
 7. The field responds to the metal's proper acceleration, averaged over minutes to hours, with a 10× cap on the motion penalty. Free fall is immune. Magnetic wards are superstition.
-8. Biology is affected only after the surface-oxidation and coating stages.
+8. Biology is affected only through the field's ordered, spin-relaxing coupling, which grows slowly and follows the surface-oxidation and coating stages; the onset spike never touched it.
 9. The field was not a weapon and the war was a reaction. The origin is polar, multinational and unclear; in-world discovery never goes beyond "everyone did something at the poles."
 10. Timescales are set (3 weeks equatorial electronics at onset, τ ≈ 33 yr so T = 300 yr, P = 10); ratios and orderings are fixed.
 
