@@ -142,6 +142,26 @@ Ray came and stood next to her. He still had the paper cup of almonds in his han
 
 She wanted to say something about tomorrow, about the airline and the investigation and when they'd fly again. She opened her mouth to say it, and found that she couldn't. Some part of her had already understood, standing in that field with the smell of burnt titanium drifting over the stubble, that there would not be a tomorrow like that. That the thing in the air, whatever it was, was not finished.
 
+---
+
+They spent the night in a hangar on the far side of the field, a hundred and sixty people on concrete under a roof whose lights had died. Nobody came for them. Toward dawn the phones were all dark and the last of the radios in the airport offices had gone to hiss, and people slept in rows, or didn't.
+
+Maya didn't. At first light she walked out onto the apron, and Ray came after her with two paper cups of water from the terminal, and they stood looking east, where the sun was coming up red over the flat country toward Omaha.
+
+It was a little after eight-thirty when the sky in the east turned white.
+
+Not the sun. The sun was already up, and this was below it and brighter than it, a pale flare that lit the undersides of the low clouds all along the horizon and was gone. Maya had time to think *lightning* and to know it wasn't. Then nothing, for a long moment. Then, out of the haze at the edge of the world, something began to rise.
+
+It went up slowly, the way very large things move when they are very far away. A column first, and then a head spreading out on top of it, folding over on itself, lit pink and gold on one side by the morning sun. It climbed until it stood higher than any cloud in the sky and then it just stayed there, over the horizon, enormous and patient, as if it had always been there.
+
+Ray said, very quietly, "That's Omaha. That's Offutt."
+
+She didn't ask what Offutt was. She could tell from his voice.
+
+About ten minutes later the sound reached them: not a bang but a long, low pressure in the chest and the ears, like a door closing somewhere very deep in the ground. A few people had come out of the hangar behind them. Nobody said anything. Somewhere a child asked what it was, and nobody answered.
+
+Then, far off to the west, toward Wyoming, a second flare lit the horizon behind them, and Maya did not turn round to watch that one rise.
+
 Nobody flew again. Not out of Grand Island, not out of anywhere. Within a month the fleet was a field of dull grey hulls at every airport in the country. Within a year, the stories had already begun.
 
 ---

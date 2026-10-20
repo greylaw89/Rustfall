@@ -16,7 +16,7 @@ There were five of them. Meera led, because the crew had voted her in three seas
 
 *Hood on before the gate. Glass eyes clean. Touch nothing red with your skin. If you cut yourself, say so. If you cough, say so. Moss before treasure. Out before dark.*
 
-The old city had been called something else once. The keepers' books called it Bengaluru, and the crews called it the Plateau, and most of it was now forest growing over long low mounds that had been buildings. The tall ones had been taken down on purpose in the first years. Everyone knew that, because the stories said the old Empire had done it carefully, floor by floor, while the machines still worked. What remained were the cold halls: long concrete sheds full of black cabinets, where the old people had kept their thinking.
+The old city had been called something else once. The keepers' books called it Chennai, and the crews called it the Long Shore, and most of it was now forest growing over long low mounds that had been buildings. The tall ones had been taken down on purpose in the first years. Everyone knew that, because the stories said the old Empire had done it carefully, floor by floor, while the machines still worked. What remained were the cold halls: long concrete sheds full of black cabinets, where the old people had kept their thinking.
 
 They reached the cold hall at midmorning. The roof had fallen in at the east end and a fig tree had come through, but the west end was still covered, and dark, and smelled of wet iron.
 
@@ -81,6 +81,10 @@ They did not run. You didn't run. Running stirred the air. They walked to the do
 Ravi coughed once, by the fire. Everyone looked at him. He looked back at them, frightened, and then he coughed again, and then he laughed, because it was only the smoke.
 
 They camped at the edge of the forest that night. They would wait the three days at the coupon post before they were allowed back on the road, watching each other's lips and the whites of each other's eyes. The jars sat in a row by the fire. Six of them, heavy with moss, and when the moss was burned in the assayer's crucible it would leave a bead of gold at the bottom of each, and the weigher would write each bead into the book as jars. Some would go toward Jai and Ravi's seventy-seven. Meera had already said, without asking anyone, that the best of them would be written to Anu.
+
+Nobody asked her why. Nobody needed to. Everyone on the Long Shore knew Meera's story, or the shape of it. Fifteen years ago there had been a man on her crew called Dev, who laughed too loudly in the halls and was the only one who could make Tahir smile, and who had gone through a rotten floor in a cold hall in the north quarter and not come up. Meera had been carrying his child. She had carried it through the burning, and the three days at the post, and the long walk to the capital, and a month after that it had come too early, small and still. The women at the house where she lay said the ruins were in it, in her bones and so in the child's, and that there had never been anything to be done. She went back in the next season. She had led the crew ever since.
+
+She watched Anu across the fire now, the girl's steady hands folded round her knees, and did not let herself think the word *daughter*. She thought only: this one comes out.
 
 The glass was not in the jars.
 
