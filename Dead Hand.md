@@ -1,4 +1,4 @@
-# Dead Hand
+# The Old Man and the Dead King
 
 *A Rustfall Kathā*
 
